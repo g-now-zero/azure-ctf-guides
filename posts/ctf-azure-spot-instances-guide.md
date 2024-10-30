@@ -81,6 +81,14 @@ resource "azurerm_linux_virtual_machine" "ctf_vm" {
 }
 ```
 
+Now run and verify changes:
+`terraform plan`
+
+Then run:
+`terraform apply`
+
+And continue with the CTF Azure guide!
+
 ### Key Parameters Explained
 
 | Parameter | Value | Description |
