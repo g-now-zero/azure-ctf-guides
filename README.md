@@ -1,10 +1,10 @@
 # L2C Guides
 
-A collection of guides and resources for setting up and running Capture The Flag (CTF) environments >
+A collection of guides and resources for L2C.
 
 ## Guides
 
-- [Using Azure Spot Instances for CTF Labs - Student Account](posts/2024-10-30-azure-spot-instances->
+- [Using Azure Spot Instances for CTF Labs - Student Account Work Around](posts/2024-10-30-azure-spot-instances)
 
 ## Repository Structure
 
