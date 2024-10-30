@@ -12,7 +12,7 @@ A collection of guides and resources for L2C.
 l2c-guides/
 ├── README.md
 ├── posts/
-│   └── 2024-10-30-azure-spot-instances-guide.md
+│   └── ctf-azure-spot-instances-guide.md
 ├── images/
 ```
 
