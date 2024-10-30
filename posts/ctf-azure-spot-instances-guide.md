@@ -87,7 +87,7 @@ Now run and verify changes:
 Then run:
 `terraform apply`
 
-And continue with the CTF Azure guide!
+And continue with the [CTF Azure guide](https://github.com/learntocloud/ltc-linux-challenge/tree/main/azure)!
 
 ### Key Parameters Explained
 
