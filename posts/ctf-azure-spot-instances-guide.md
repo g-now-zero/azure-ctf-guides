@@ -34,7 +34,7 @@ Azure Spot Instances provide a budget-friendly alternative with some trade-offs.
    ```
 
 2. **Locate the VM Resource**
-   Find the `azurerm_linux_virtual_machine` "ctf_vm" resource in your `main.tf`
+   Find the "azurerm_linux_virtual_machine" "ctf_vm" resource in your `main.tf`
 
 3. **Replace the VM Configuration**
    Replace the existing VM resource block with this Spot Instance configuration:
