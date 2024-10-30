@@ -1,10 +1,10 @@
-# Using Azure Spot Instances for CTF Labs - Student Account
+# Using Azure Spot Instances for CTF Lab - Student Account
 
 ## Overview
 This guide addresses a common issue faced by students using Azure for the [Learn To Cloud Linux Challenge](https://github.com/learntocloud/ltc-linux-challenge) and provides a cost-effective solution using Azure Spot Instances.
 
 ## The Problem
-When following the [Azure setup guide](https://github.com/learntocloud/ltc-linux-challenge/tree/main/aws) and running `terraform apply`, you might encounter this error:
+When following the [Azure setup guide](https://github.com/learntocloud/ltc-linux-challenge/tree/main/azure) and running `terraform apply`, you might encounter this error:
 ```
 Restrictions: 'Standard_B1s' is currently not available in location 'eastus'. 
 Please try another size or deploy to a different location or different zone. 

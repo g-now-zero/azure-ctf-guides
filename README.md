@@ -4,7 +4,7 @@ A collection of guides and resources for L2C.
 
 ## Guides
 
-- [Using Azure Spot Instances for CTF Labs - Student Account Work Around](posts/ctf-azure-spot-instances-guide.md)
+- [Using Azure Spot Instances for CTF Lab - Student Account](posts/ctf-azure-spot-instances-guide.md)
 
 ## Repository Structure
 
