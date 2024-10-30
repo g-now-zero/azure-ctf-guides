@@ -18,7 +18,7 @@ This happens because:
 
 ## The Solution: Azure Spot Instances
 
-Azure Spot Instances provide a budget-friendly alternative with some trade-offs. They can be up to 90% cheaper than standard VMs, making them usable for student accounts.
+Azure Spot Instances provide a budget-friendly alternative with some trade-offs. They can be up to 60% cheaper than standard VMs, making them usable for student accounts.
 
 ### Prerequisites
 - Azure Student Account
@@ -102,7 +102,7 @@ And continue with the CTF Azure guide!
 
 ⚠️ **Key Points to Remember**:
 - Spot VMs can be deallocated at any time - save your work often!
-- You'll save up to 60-90% on VM costs
+- Can save up to 60% on VM costs
 - Have a backup plan if your VM gets deallocated
 
 ## Troubleshooting Guide
@@ -119,7 +119,7 @@ And continue with the CTF Azure guide!
 - [LTC Discord](https://discord.gg/dr2kvtA726) - Join the community!
 - [Learn To Cloud Main Site](https://learntocloud.guide)
 - [Azure Student Account Setup](https://azure.microsoft.com/free/students)
-- [Azure Spot VMs Pricing](https://azure.microsoft.com/pricing/details/virtual-machines/spot/)
+- [Azure Spot VMs Pricing](https://azure.microsoft.com/en-us/pricing/spot-advisor/)
 - [Terraform Installation Guide](https://developer.hashicorp.com/terraform/install)
 - [Azure CLI Installation](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 
